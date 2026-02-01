@@ -10,7 +10,7 @@ Each folder in this repository represents a standalone project. Inside each fold
 <!--
 ---
 
-## 🛠️ Project List
+## Project List
 
 | # | Project Name | Description | Status |
 |:---|:---|:---|:---|
@@ -31,5 +31,18 @@ To run these projects, you will generally need:
 
 ## How to Use
 1. Clone the repository:
+
    ```bash
    git clone [https://github.com/YOUR_USERNAME/arduino-projects.git](https://github.com/YOUR_USERNAME/arduino-projects.git)
+   ```
+   
+2. Navigate to the specific project folder you are interested in.
+3. Open the ```.ino``` file in your Arduino IDE.
+4. Connect your board and hit Upload.
+
+## License
+This repository is licensed under the **MIT License**. You are free to use, modify, and distribute this code for personal or educational purposes, provided the original copyright notice is included. See the [LICENSE](./LICENSE) file for the full text.
+
+---
+**Maintained by:** Manujaya Gunathilaka
+*Feel free to star ⭐ this repository if you find it helpful!*
